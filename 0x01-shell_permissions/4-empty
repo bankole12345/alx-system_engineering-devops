@@ -1,0 +1,2 @@
+echo '#!/bin/bash' > 4-empty
+echo 'touch hello' >> 4-empty
